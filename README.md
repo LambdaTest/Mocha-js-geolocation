@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Geolocation Tests across
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps:
 
 In `conf/single.conf.js` file, you need to update your capabilities. You can change the geolocation using the 'geolocation' capability: :
